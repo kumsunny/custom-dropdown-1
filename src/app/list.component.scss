@@ -3,7 +3,7 @@
   .list-item {
     position: absolute;
     z-index: 1;
-    background-color: red;
+    background-color: lightgray;
     width: 80%;
     height: 10%;
     overflow: scroll;
@@ -13,10 +13,10 @@
     width: 100%;
   }
   .highlight {
-    background-color: blue;
+    background-color: white;
   }
   .text:hover {
-    background-color: blue;
+    background-color: white;
   }
   .item {
     padding: 1rem;
